@@ -12,7 +12,7 @@ This project is based off: [jessejwk's Bike Better With an LED Cadence Meter](ht
 - [ ] Design an operation scheme
 - [ ] Design a mounting scheme
 - [ ] Sensor code
-- [ ] LCD code
+- [X] LCD code
 - [ ] Odometer & speedometer codes
 - [ ] Electronics integration
 - [ ] Power consumption calculation
