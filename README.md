@@ -33,4 +33,4 @@ This project is based off: [jessejwk's Bike Better With an LED Cadence Meter](ht
 1. ปั๊บ: Sensor
 2. พจน์: Operation scheme, power
 3. [Chettanat Padungatthakij](https://github.com/Chettanat-Pa): Project manager, LCD display
-4. กาย: System integration, mounting scheme
+4. [PheerapatGuy]: System integration, mounting scheme
